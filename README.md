@@ -31,6 +31,8 @@ Claude:  [asks Gemini and GPT in parallel...]
 
 ---
 
+![council demo](demo/council.gif)
+
 ## Why
 
 A model is wrong most often where it can't see its own blind spots. A second model
